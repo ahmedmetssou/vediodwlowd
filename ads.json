@@ -1,0 +1,20 @@
+{
+  "ADS": {
+    "ENABLED": true,
+    "TEST_MODE": true,
+
+    "TEST": {
+      "APP_ID": "ca-app-pub-3940256099942544~3347511713",
+      "INTERSTITIAL_ID": "ca-app-pub-3940256099942544/1033173712",
+      "REWARDED_ID": "ca-app-pub-3940256099942544/5224354917",
+      "BANNER_ID": "ca-app-pub-3940256099942544/6300978111"
+    },
+
+    "PRODUCTION": {
+      "APP_ID": "ca-app-pub-XXXXXXXXXXXXXXXX~YYYYYYYYYY",
+      "INTERSTITIAL_ID": "ca-app-pub-XXXXXXXXXXXXXXXX/IIIIIIIIII",
+      "REWARDED_ID": "ca-app-pub-XXXXXXXXXXXXXXXX/RRRRRRRRRR",
+      "BANNER_ID": "ca-app-pub-XXXXXXXXXXXXXXXX/BBBBBBBBBB"
+    }
+  }
+}
